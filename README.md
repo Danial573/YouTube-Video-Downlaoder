@@ -1,6 +1,6 @@
 
 # yt-video-downloader.py
-You can now downlaod any Yuotube video for free 
+You can now downlaod any Yuotube videos for free 
 
 
 How to use it?
