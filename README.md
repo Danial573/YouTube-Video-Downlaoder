@@ -5,17 +5,21 @@ You can now downlaod any Yuotube videos for free
 
 How to use it?
 
- 1. python -m venv menv   
+  git clone https://github.com/Danial573/YouTube-Video-Downlaoder.git
 
- 2. source menv/bin/activate 
+  cd YouTube-Video-Downlaoder
 
- 3. pip install --upgrade yt-dlp
+  python -m venv menv   
 
- 4. sudo apt install ffmpeg
+  source menv/bin/activate 
 
- 5. python yt-video-downloader.py (video url)
+  pip install --upgrade yt-dlp
 
- Enjoy 
+  sudo apt install ffmpeg
+
+  python yt-video-downloader.py (video url)
+
+  Enjoy 
 
 
 Made By Daniel
