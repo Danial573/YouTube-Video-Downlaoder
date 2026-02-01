@@ -20,9 +20,13 @@ How to use it?
   python yt-video-downloader.py (video url)
 
 Usage examples:
-  python yt_downloader.py https://youtu.be/dQw4w9WgXcQ
+
+  python yt_downloader.py https://youtu.be/dQw4w9WgXcQ\
+  
   python yt_downloader.py https://youtu.be/dQw4w9WgXcQ -f 1080
+  
   python yt_downloader.py https://youtu.be/dQw4w9WgXcQ -f audio
+  
   python yt_downloader.py https://youtube.com/playlist?list=PL... --no-playlist
 
   Enjoy 
