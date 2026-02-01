@@ -18,4 +18,4 @@ How to use it?
  Enjoy 
 
 
-Make By Daniel
+Made By Daniel
